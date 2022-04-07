@@ -5,7 +5,7 @@ import CardsOurTeam from '../CardsOurTeam';
 export default function OurTeam() {
   return (
     <>
-      <h1 className='sessions'>Our Team</h1>
+      <h1 className='our-team'>Our Team</h1>
       <CardsOurTeam />
     </>
   );
