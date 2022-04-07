@@ -6,7 +6,7 @@ function Cards() {
   return (
     <div className='cards'>
       <h1>Our Goal</h1>
-      <h2>Our goal is to</h2>
+      <h2>Our goal is to help and prepare students to take the American Math Competitions.</h2>
     </div>
   );
 }
