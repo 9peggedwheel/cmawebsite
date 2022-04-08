@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cmawebsite/static/css/main.45087fbe.chunk.css",
+    "main.js": "/cmawebsite/static/js/main.03ff9840.chunk.js",
+    "main.js.map": "/cmawebsite/static/js/main.03ff9840.chunk.js.map",
+    "runtime-main.js": "/cmawebsite/static/js/runtime-main.8c3225c8.js",
+    "runtime-main.js.map": "/cmawebsite/static/js/runtime-main.8c3225c8.js.map",
+    "static/js/2.a86ed8aa.chunk.js": "/cmawebsite/static/js/2.a86ed8aa.chunk.js",
+    "static/js/2.a86ed8aa.chunk.js.map": "/cmawebsite/static/js/2.a86ed8aa.chunk.js.map",
+    "index.html": "/cmawebsite/index.html",
+    "precache-manifest.67c5b25edf4d1ab37879a61b9f8aa1d9.js": "/cmawebsite/precache-manifest.67c5b25edf4d1ab37879a61b9f8aa1d9.js",
+    "service-worker.js": "/cmawebsite/service-worker.js",
+    "static/css/main.45087fbe.chunk.css.map": "/cmawebsite/static/css/main.45087fbe.chunk.css.map",
+    "static/js/2.a86ed8aa.chunk.js.LICENSE.txt": "/cmawebsite/static/js/2.a86ed8aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c3225c8.js",
+    "static/js/2.a86ed8aa.chunk.js",
+    "static/css/main.45087fbe.chunk.css",
+    "static/js/main.03ff9840.chunk.js"
+  ]
+}
