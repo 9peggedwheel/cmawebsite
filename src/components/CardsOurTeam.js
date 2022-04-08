@@ -10,19 +10,19 @@ function CardsOurTeam() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
+              src='images/icon.png'
               text='Pranay is a 2x AIME Qualifier and the Director of Operations'
               label='Pranay Boreddy - Co-Founder'
               path='/our-team'
             />
             <CardItem
-              src='images/img-4.jpg'
+              src='images/icon.png'
               text='Yanzhe is a 2x AIME Qualifier and the Managing Director'
               label='Yanzhe Feng - Co-Founder'
               path='/our-team'
             />
             <CardItem
-              src='images/img-8.jpg'
+              src='images/icon.png'
               text='Sandeep is a 2x AIME Qualifier and the Executive Director'
               label='Sandeep Karjala - Co-Founder'
               path='/our-team'
