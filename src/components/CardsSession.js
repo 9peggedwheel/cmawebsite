@@ -11,7 +11,7 @@ function CardsSession() {
           <ul className='cards__items'>
             <CardItem
               src='images/amc8.jpg'
-              text='3/4/2022 AMC8 Learning and Practice Session'
+              text='6/4/2022 AMC8 Learning and Practice Session'
               label='AMC8'
               path='/sessions'
             />
