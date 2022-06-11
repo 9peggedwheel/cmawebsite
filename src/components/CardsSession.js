@@ -11,19 +11,19 @@ function CardsSession() {
           <ul className='cards__items'>
             <CardItem
               src='images/amc8.jpg'
-              text='6/20/2022 AMC8 Learning and Practice Session'
+              text='3/4/2022 AMC8 Learning and Practice Session'
               label='AMC8'
               path='/sessions'
             />
             <CardItem
               src='images/amc10.jpg'
-              text='6/21/2022 AMC10 Learning and Practice Session'
+              text='3/6/2022 AMC10 Learning and Practice Session'
               label='AMC10'
               path='/sessions'
             />
             <CardItem
               src='images/mock.jpg'
-              text='6/28/2022 Mock Practice Session (Both AMC8 and AMC10) '
+              text='3/8/2022 Mock Practice Session (Both AMC8 and AMC10) '
               label='Mock Practice'
               path='/sessions'
             />
